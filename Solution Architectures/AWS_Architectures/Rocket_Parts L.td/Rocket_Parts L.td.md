@@ -1,6 +1,6 @@
-![Rocket Parts L.td Sample Architectures](https://github.com/ComputersAviSR/Cloud-Computing/blob/main/Solution%20Architectures/AWS_Architectures/Rocket_Parts%20L.td/car_catalog_ha.jpg)
-
 # Project Rocket Part Procurement (A Fictional Company) 🚀
+
+![Rocket Parts L.td Sample Architectures](https://github.com/ComputersAviSR/Cloud-Computing/blob/main/Solution%20Architectures/AWS_Architectures/Rocket_Parts%20L.td/car_catalog_ha.jpg)
 
 Project Rocket Part Procurement is a three-tier web application aimed at providing a platform for customers to browse and purchase rocket parts and services. This project leverages AWS services to ensure scalability, reliability, and performance.
 
