@@ -1,8 +1,11 @@
 # Customer Medical Records Diagnosis
 
+
 ## Company Overview
 
 The "Customer Medical Records Diagnosis" project is developed by a healthcare organization aiming to provide patients with concise and understandable summaries of their medical reports. This three-tier web application leverages AWS services to securely store, process, and deliver patient data and medical analyses.
+
+![Customer Medical Report Analysis Sample Architectures](https://github.com/ComputersAviSR/Cloud-Computing/blob/main/Solution%20Architectures/AWS_Architectures/Customer%20Medical%20Report%20Diagnosis/Medical_diagnosis_ha.jpg)
 
 ## Use Case
 
